@@ -5,7 +5,7 @@ public class Perro {
 	private String nombre;
 	private int edad;
 	private String patas;
-	//asdjkasdj
+	//asd
 	
 	
 	@Override
