@@ -13,8 +13,15 @@ public class Perro {
 		return "Perro [nombre=" + nombre + ", edad=" + edad + ", patas=" + patas + "]";
 	}
 	
+	public Perro() {
+		
+		setNombre("asd");//this.nombre = nombre;
+		setEdad(10);//this.edad = edad;
+		setPatas("cortitas");//this.patas = patas;
+	}
+
 	public Perro(String nombre, int edad, String patas) {
-		super();
+		
 		setNombre(nombre);//this.nombre = nombre;
 		setEdad(edad);//this.edad = edad;
 		setPatas(patas);//this.patas = patas;
