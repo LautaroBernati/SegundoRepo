@@ -1,4 +1,4 @@
-package ort.thp.objetos.tp3_clases;
+package ort.thp.objetos.tp3Tests;
 import java.util.*;
 import ort.thp.objetos.tp3.Perro;
 
